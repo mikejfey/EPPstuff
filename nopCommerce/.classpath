@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/EPPws (eggPlant Performance Workspace)"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-bindings-soap-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/exceptions.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-wsdl-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-tools-wsdlto-databinding-jaxb-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-bindings-xml-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/jaxb-xjc-2.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-tools-wsdlto-frontend-jaxws-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/native.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files (x86)/eggPlant Performance/lib/java/engine-javadoc-v7.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/xmlrpc-common-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/neethi-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/jaxb-impl-2.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-manifest.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/logging-interceptor-2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/eggPlant.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files (x86)/eggPlant Performance/lib/java/engine-javadoc-v7.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-frontend-jaxrs-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/jna-4.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files (x86)/eggPlant Performance/lib/java/engine-javadoc-v7.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/jcl-over-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/wsdl4j-1.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-frontend-jaxws-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/xmlrpc-client-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-ws-policy-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-databinding-jaxb-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/swagger-annotations-1.5.17.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/joda-time-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/messaging.jar"/>
+	<classpathentry kind="lib" path="C:/EPPworkspaces/EPPws/repository/upload/EPPws_java.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-tools-common-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-tools-wsdlto-core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/slf4j-jdk14-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/web.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files (x86)/eggPlant Performance/lib/java/engine-javadoc-v7.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-frontend-simple-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-rt-ws-addr-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/engine.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files (x86)/eggPlant Performance/lib/java/engine-javadoc-v7.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/jaxb-core-2.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/jna-platform-4.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files (x86)/eggPlant Performance/lib/java/engine-javadoc-v7.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/cxf-tools-validator-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/eggPlant Performance/lib/java/apache-cxf-3.1.1/lib/xmlschema-core-2.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
